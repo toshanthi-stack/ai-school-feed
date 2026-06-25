@@ -1,5 +1,345 @@
 [
   {
+    "id": "ai-public-sector-public-sector-ai-overview",
+    "title": "Public Sector AI Overview",
+    "description": "Public-Sector AI Overview",
+    "category": "AI Public Sector",
+    "lessons": [
+      {
+        "id": "ai-public-sector-public-sector-ai-overview-public-sector-ai-overview",
+        "title": "Public-Sector AI Overview",
+        "durationSeconds": 253,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_ai_overview_public_sector_ai_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-ai-overview/public-sector-ai-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Public-Sector AI Overview"
+      },
+      {
+        "id": "ai-public-sector-public-sector-ai-overview-scope-deliverables",
+        "title": "Scope & Deliverables",
+        "durationSeconds": 271,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_ai_overview_scope_deliverables.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-ai-overview/scope-deliverables.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Scope & Deliverables"
+      },
+      {
+        "id": "ai-public-sector-public-sector-ai-overview-lineage-from-e-gov",
+        "title": "Lineage from E-Gov",
+        "durationSeconds": 218,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_ai_overview_lineage_from_e_gov.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-ai-overview/lineage-from-e-gov.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Lineage from E-Gov"
+      },
+      {
+        "id": "ai-public-sector-public-sector-ai-overview-operating-model",
+        "title": "Operating Model",
+        "durationSeconds": 417,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_ai_overview_operating_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-ai-overview/operating-model.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Operating Model"
+      },
+      {
+        "id": "ai-public-sector-public-sector-ai-overview-operating-cadence",
+        "title": "Operating Cadence",
+        "durationSeconds": 243,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_ai_overview_operating_cadence.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-ai-overview/operating-cadence.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Operating Cadence"
+      },
+      {
+        "id": "ai-public-sector-public-sector-ai-overview-maturity-model",
+        "title": "Maturity Model",
+        "durationSeconds": 267,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_ai_overview_maturity_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-ai-overview/maturity-model.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Maturity Model"
+      }
+    ]
+  },
+  {
+    "id": "ai-public-sector-public-vs-private-ai",
+    "title": "Public Vs Private AI",
+    "description": "Public vs Private AI Overview",
+    "category": "AI Public Sector",
+    "lessons": [
+      {
+        "id": "ai-public-sector-public-vs-private-ai-public-vs-private-ai-overview",
+        "title": "Public vs Private AI Overview",
+        "durationSeconds": 354,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_vs_private_ai_public_vs_private_ai_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-vs-private-ai/public-vs-private-ai-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Public vs Private AI Overview"
+      },
+      {
+        "id": "ai-public-sector-public-vs-private-ai-democratic-legitimacy-constraints",
+        "title": "Democratic-Legitimacy Constraints",
+        "durationSeconds": 224,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_vs_private_ai_democratic_legitimacy_constraints.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-vs-private-ai/democratic-legitimacy-constraints.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Democratic-Legitimacy Constraints"
+      },
+      {
+        "id": "ai-public-sector-public-vs-private-ai-procurement-disclosure-burdens",
+        "title": "Procurement & Disclosure Burdens",
+        "durationSeconds": 331,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_vs_private_ai_procurement_disclosure_burdens.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-vs-private-ai/procurement-disclosure-burdens.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Procurement & Disclosure Burdens"
+      },
+      {
+        "id": "ai-public-sector-public-vs-private-ai-citizen-as-rights-holder",
+        "title": "Citizen as Rights-Holder",
+        "durationSeconds": 319,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_vs_private_ai_citizen_as_rights_holder.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-vs-private-ai/citizen-as-rights-holder.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Citizen as Rights-Holder"
+      },
+      {
+        "id": "ai-public-sector-public-vs-private-ai-accountability-windows",
+        "title": "Accountability Windows",
+        "durationSeconds": 268,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_vs_private_ai_accountability_windows.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-vs-private-ai/accountability-windows.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Accountability Windows"
+      },
+      {
+        "id": "ai-public-sector-public-vs-private-ai-failure-modes-of-direct-import",
+        "title": "Failure Modes of Direct Import",
+        "durationSeconds": 270,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_vs_private_ai_failure_modes_of_direct_import.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-vs-private-ai/failure-modes-of-direct-import.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Failure Modes of Direct Import"
+      }
+    ]
+  },
+  {
+    "id": "ai-public-sector-public-sector-history",
+    "title": "Public Sector History",
+    "description": "Public-Sector AI History Overview",
+    "category": "AI Public Sector",
+    "lessons": [
+      {
+        "id": "ai-public-sector-public-sector-history-public-sector-ai-history-overview",
+        "title": "Public-Sector AI History Overview",
+        "durationSeconds": 282,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_history_public_sector_ai_history_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-history/public-sector-ai-history-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Public-Sector AI History Overview"
+      },
+      {
+        "id": "ai-public-sector-public-sector-history-robodebt-midas-cases",
+        "title": "Robodebt & MIDAS Cases",
+        "durationSeconds": 270,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_history_robodebt_midas_cases.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-history/robodebt-midas-cases.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Robodebt & MIDAS Cases"
+      },
+      {
+        "id": "ai-public-sector-public-sector-history-syri-toeslagenaffaire",
+        "title": "SyRI & Toeslagenaffaire",
+        "durationSeconds": 282,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_history_syri_toeslagenaffaire.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-history/syri-toeslagenaffaire.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "SyRI & Toeslagenaffaire"
+      },
+      {
+        "id": "ai-public-sector-public-sector-history-compas-evaas",
+        "title": "COMPAS & EVAAS",
+        "durationSeconds": 266,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_history_compas_evaas.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-history/compas-evaas.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "COMPAS & EVAAS"
+      },
+      {
+        "id": "ai-public-sector-public-sector-history-uk-a-level-allegheny-fst",
+        "title": "UK A-level & Allegheny FST",
+        "durationSeconds": 352,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_history_uk_a_level_allegheny_fst.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-history/uk-a-level-allegheny-fst.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "UK A-level & Allegheny FST"
+      },
+      {
+        "id": "ai-public-sector-public-sector-history-practitioner-takeaways",
+        "title": "Practitioner Takeaways",
+        "durationSeconds": 281,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_history_practitioner_takeaways.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-history/practitioner-takeaways.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Practitioner Takeaways"
+      }
+    ]
+  },
+  {
+    "id": "ai-public-sector-public-sector-stakeholders",
+    "title": "Public Sector Stakeholders",
+    "description": "Stakeholder Landscape Overview",
+    "category": "AI Public Sector",
+    "lessons": [
+      {
+        "id": "ai-public-sector-public-sector-stakeholders-stakeholder-landscape-overview",
+        "title": "Stakeholder Landscape Overview",
+        "durationSeconds": 323,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_stakeholders_stakeholder_landscape_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-stakeholders/stakeholder-landscape-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Stakeholder Landscape Overview"
+      },
+      {
+        "id": "ai-public-sector-public-sector-stakeholders-citizens-rights-holders",
+        "title": "Citizens & Rights-Holders",
+        "durationSeconds": 274,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_stakeholders_citizens_rights_holders.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-stakeholders/citizens-rights-holders.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Citizens & Rights-Holders"
+      },
+      {
+        "id": "ai-public-sector-public-sector-stakeholders-agencies-legislators",
+        "title": "Agencies & Legislators",
+        "durationSeconds": 273,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_stakeholders_agencies_legislators.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-stakeholders/agencies-legislators.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Agencies & Legislators"
+      },
+      {
+        "id": "ai-public-sector-public-sector-stakeholders-courts-oversight-bodies",
+        "title": "Courts & Oversight Bodies",
+        "durationSeconds": 286,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_stakeholders_courts_oversight_bodies.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-stakeholders/courts-oversight-bodies.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Courts & Oversight Bodies"
+      },
+      {
+        "id": "ai-public-sector-public-sector-stakeholders-civil-society-journalists",
+        "title": "Civil Society & Journalists",
+        "durationSeconds": 277,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_stakeholders_civil_society_journalists.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-stakeholders/civil-society-journalists.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Civil Society & Journalists"
+      },
+      {
+        "id": "ai-public-sector-public-sector-stakeholders-vendors-academic-partners",
+        "title": "Vendors & Academic Partners",
+        "durationSeconds": 263,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_stakeholders_vendors_academic_partners.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-stakeholders/vendors-academic-partners.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Vendors & Academic Partners"
+      }
+    ]
+  },
+  {
+    "id": "ai-public-sector-public-sector-values",
+    "title": "Public Sector Values",
+    "description": "Public Values Overview",
+    "category": "AI Public Sector",
+    "lessons": [
+      {
+        "id": "ai-public-sector-public-sector-values-public-values-overview",
+        "title": "Public Values Overview",
+        "durationSeconds": 306,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_values_public_values_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-values/public-values-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Public Values Overview"
+      },
+      {
+        "id": "ai-public-sector-public-sector-values-equality-due-process",
+        "title": "Equality & Due Process",
+        "durationSeconds": 290,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_values_equality_due_process.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-values/equality-due-process.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Equality & Due Process"
+      },
+      {
+        "id": "ai-public-sector-public-sector-values-transparency-accountability",
+        "title": "Transparency & Accountability",
+        "durationSeconds": 306,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_values_transparency_accountability.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-values/transparency-accountability.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Transparency & Accountability"
+      },
+      {
+        "id": "ai-public-sector-public-sector-values-participation-contestability",
+        "title": "Participation & Contestability",
+        "durationSeconds": 297,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_values_participation_contestability.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-values/participation-contestability.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Participation & Contestability"
+      },
+      {
+        "id": "ai-public-sector-public-sector-values-oecd-unesco-frameworks",
+        "title": "OECD / UNESCO Frameworks",
+        "durationSeconds": 283,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_values_oecd_unesco_frameworks.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-values/oecd-unesco-frameworks.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "OECD / UNESCO Frameworks"
+      },
+      {
+        "id": "ai-public-sector-public-sector-values-values-to-control-mapping",
+        "title": "Values-to-Control Mapping",
+        "durationSeconds": 301,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_public_sector_public_sector_values_values_to_control_mapping.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-public-sector/public-sector-values/values-to-control-mapping.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Values-to-Control Mapping"
+      }
+    ]
+  },
+  {
     "id": "anthropic-claude-claude-models-overview",
     "title": "Claude Models Overview",
     "description": "Claude Family Overview",
@@ -336,6 +676,686 @@
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
         "audioSummary": "Selection Template"
+      }
+    ]
+  },
+  {
+    "id": "ai-tools-claude-code",
+    "title": "Claude Code",
+    "description": "Claude Code Overview",
+    "category": "AI Tools",
+    "lessons": [
+      {
+        "id": "ai-tools-claude-code-claude-code-overview",
+        "title": "Claude Code Overview",
+        "durationSeconds": 247,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_claude_code_claude_code_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/claude-code/claude-code-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Claude Code Overview"
+      },
+      {
+        "id": "ai-tools-claude-code-claude-code-slash-commands",
+        "title": "Slash Commands and Skills",
+        "durationSeconds": 210,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_claude_code_claude_code_slash_commands.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/claude-code/claude-code-slash-commands.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Slash Commands and Skills"
+      },
+      {
+        "id": "ai-tools-claude-code-claude-code-hooks",
+        "title": "Hooks and Automation",
+        "durationSeconds": 213,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_claude_code_claude_code_hooks.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/claude-code/claude-code-hooks.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Hooks and Automation"
+      },
+      {
+        "id": "ai-tools-claude-code-claude-code-subagents",
+        "title": "Sub-Agents and Parallelism",
+        "durationSeconds": 193,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_claude_code_claude_code_subagents.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/claude-code/claude-code-subagents.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Sub-Agents and Parallelism"
+      },
+      {
+        "id": "ai-tools-claude-code-claude-code-mcp",
+        "title": "MCP Servers",
+        "durationSeconds": 226,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_claude_code_claude_code_mcp.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/claude-code/claude-code-mcp.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "MCP Servers"
+      },
+      {
+        "id": "ai-tools-claude-code-claude-code-team-workflows",
+        "title": "Team Workflows and Settings",
+        "durationSeconds": 269,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_claude_code_claude_code_team_workflows.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/claude-code/claude-code-team-workflows.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Team Workflows and Settings"
+      }
+    ]
+  },
+  {
+    "id": "ai-tools-cursor-editor",
+    "title": "Cursor Editor",
+    "description": "Cursor Overview",
+    "category": "AI Tools",
+    "lessons": [
+      {
+        "id": "ai-tools-cursor-editor-cursor-overview",
+        "title": "Cursor Overview",
+        "durationSeconds": 236,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_cursor_editor_cursor_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/cursor-editor/cursor-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Cursor Overview"
+      },
+      {
+        "id": "ai-tools-cursor-editor-cursor-tab",
+        "title": "Cursor Tab Autocomplete",
+        "durationSeconds": 192,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_cursor_editor_cursor_tab.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/cursor-editor/cursor-tab.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Cursor Tab Autocomplete"
+      },
+      {
+        "id": "ai-tools-cursor-editor-cursor-composer-agent",
+        "title": "Composer and Agent Mode",
+        "durationSeconds": 206,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_cursor_editor_cursor_composer_agent.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/cursor-editor/cursor-composer-agent.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Composer and Agent Mode"
+      },
+      {
+        "id": "ai-tools-cursor-editor-cursor-rules",
+        "title": "cursorrules and Project Rules",
+        "durationSeconds": 284,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_cursor_editor_cursor_rules.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/cursor-editor/cursor-rules.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "cursorrules and Project Rules"
+      },
+      {
+        "id": "ai-tools-cursor-editor-cursor-mcp",
+        "title": "Cursor MCP Integration",
+        "durationSeconds": 243,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_cursor_editor_cursor_mcp.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/cursor-editor/cursor-mcp.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Cursor MCP Integration"
+      },
+      {
+        "id": "ai-tools-cursor-editor-cursor-team",
+        "title": "Cursor for Teams",
+        "durationSeconds": 182,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_cursor_editor_cursor_team.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/cursor-editor/cursor-team.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Cursor for Teams"
+      }
+    ]
+  },
+  {
+    "id": "ai-tools-github-copilot-tool",
+    "title": "GitHub Copilot Tool",
+    "description": "Copilot Overview",
+    "category": "AI Tools",
+    "lessons": [
+      {
+        "id": "ai-tools-github-copilot-tool-copilot-overview",
+        "title": "Copilot Overview",
+        "durationSeconds": 247,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_github_copilot_tool_copilot_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/github-copilot-tool/copilot-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Copilot Overview"
+      },
+      {
+        "id": "ai-tools-github-copilot-tool-copilot-inline-chat",
+        "title": "Inline Suggestions and Chat",
+        "durationSeconds": 227,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_github_copilot_tool_copilot_inline_chat.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/github-copilot-tool/copilot-inline-chat.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Inline Suggestions and Chat"
+      },
+      {
+        "id": "ai-tools-github-copilot-tool-copilot-workspace",
+        "title": "Copilot Workspace",
+        "durationSeconds": 255,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_github_copilot_tool_copilot_workspace.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/github-copilot-tool/copilot-workspace.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Copilot Workspace"
+      },
+      {
+        "id": "ai-tools-github-copilot-tool-copilot-agent-mode",
+        "title": "Copilot Agent Mode",
+        "durationSeconds": 247,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_github_copilot_tool_copilot_agent_mode.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/github-copilot-tool/copilot-agent-mode.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Copilot Agent Mode"
+      },
+      {
+        "id": "ai-tools-github-copilot-tool-copilot-instructions",
+        "title": "Custom Instructions",
+        "durationSeconds": 209,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_github_copilot_tool_copilot_instructions.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/github-copilot-tool/copilot-instructions.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Custom Instructions"
+      },
+      {
+        "id": "ai-tools-github-copilot-tool-copilot-enterprise",
+        "title": "Copilot Enterprise",
+        "durationSeconds": 194,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_github_copilot_tool_copilot_enterprise.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/github-copilot-tool/copilot-enterprise.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Copilot Enterprise"
+      }
+    ]
+  },
+  {
+    "id": "ai-tools-aider",
+    "title": "Aider",
+    "description": "Aider Overview",
+    "category": "AI Tools",
+    "lessons": [
+      {
+        "id": "ai-tools-aider-aider-overview",
+        "title": "Aider Overview",
+        "durationSeconds": 219,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_aider_aider_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/aider/aider-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Aider Overview"
+      },
+      {
+        "id": "ai-tools-aider-aider-architect-edit",
+        "title": "Architect and Edit Modes",
+        "durationSeconds": 178,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_aider_aider_architect_edit.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/aider/aider-architect-edit.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Architect and Edit Modes"
+      },
+      {
+        "id": "ai-tools-aider-aider-repo-map",
+        "title": "Repo Map",
+        "durationSeconds": 232,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_aider_aider_repo_map.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/aider/aider-repo-map.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Repo Map"
+      },
+      {
+        "id": "ai-tools-aider-aider-git",
+        "title": "Git-Aware Editing",
+        "durationSeconds": 177,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_aider_aider_git.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/aider/aider-git.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Git-Aware Editing"
+      },
+      {
+        "id": "ai-tools-aider-aider-voice",
+        "title": "Aider Voice Coding",
+        "durationSeconds": 220,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_aider_aider_voice.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/aider/aider-voice.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Aider Voice Coding"
+      },
+      {
+        "id": "ai-tools-aider-aider-models",
+        "title": "Choosing Models for Aider",
+        "durationSeconds": 187,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_aider_aider_models.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/aider/aider-models.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Choosing Models for Aider"
+      }
+    ]
+  },
+  {
+    "id": "ai-tools-continue-dev",
+    "title": "Continue Dev",
+    "description": "Continue Overview",
+    "category": "AI Tools",
+    "lessons": [
+      {
+        "id": "ai-tools-continue-dev-continue-overview",
+        "title": "Continue Overview",
+        "durationSeconds": 200,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_continue_dev_continue_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/continue-dev/continue-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Continue Overview"
+      },
+      {
+        "id": "ai-tools-continue-dev-continue-config",
+        "title": "config.json Configuration",
+        "durationSeconds": 268,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_continue_dev_continue_config.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/continue-dev/continue-config.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "config.json Configuration"
+      },
+      {
+        "id": "ai-tools-continue-dev-continue-context-providers",
+        "title": "Context Providers",
+        "durationSeconds": 224,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_continue_dev_continue_context_providers.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/continue-dev/continue-context-providers.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Context Providers"
+      },
+      {
+        "id": "ai-tools-continue-dev-continue-custom-commands",
+        "title": "Custom Slash Commands",
+        "durationSeconds": 158,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_continue_dev_continue_custom_commands.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/continue-dev/continue-custom-commands.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Custom Slash Commands"
+      },
+      {
+        "id": "ai-tools-continue-dev-continue-self-hosted",
+        "title": "Self-Hosted Continue",
+        "durationSeconds": 241,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_continue_dev_continue_self_hosted.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/continue-dev/continue-self-hosted.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Self-Hosted Continue"
+      },
+      {
+        "id": "ai-tools-continue-dev-continue-vs-cursor",
+        "title": "Continue vs Cursor",
+        "durationSeconds": 202,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_tools_continue_dev_continue_vs_cursor.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-tools/continue-dev/continue-vs-cursor.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Continue vs Cursor"
+      }
+    ]
+  },
+  {
+    "id": "ai-models-gpt-5",
+    "title": "GPT-5",
+    "description": "GPT-5 Overview",
+    "category": "AI Models",
+    "lessons": [
+      {
+        "id": "ai-models-gpt-5-gpt-5-overview",
+        "title": "GPT-5 Overview",
+        "durationSeconds": 214,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_5_gpt_5_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-5/gpt-5-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "GPT-5 Overview"
+      },
+      {
+        "id": "ai-models-gpt-5-gpt-5-capabilities",
+        "title": "GPT-5 Capabilities and Benchmarks",
+        "durationSeconds": 249,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_5_gpt_5_capabilities.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-5/gpt-5-capabilities.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "GPT-5 Capabilities and Benchmarks"
+      },
+      {
+        "id": "ai-models-gpt-5-gpt-5-context-multimodal",
+        "title": "Context Window and Multimodal",
+        "durationSeconds": 251,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_5_gpt_5_context_multimodal.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-5/gpt-5-context-multimodal.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Context Window and Multimodal"
+      },
+      {
+        "id": "ai-models-gpt-5-gpt-5-tool-use",
+        "title": "Native Tool Use",
+        "durationSeconds": 217,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_5_gpt_5_tool_use.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-5/gpt-5-tool-use.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Native Tool Use"
+      },
+      {
+        "id": "ai-models-gpt-5-gpt-5-pricing",
+        "title": "Pricing and Cost Optimization",
+        "durationSeconds": 201,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_5_gpt_5_pricing.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-5/gpt-5-pricing.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Pricing and Cost Optimization"
+      },
+      {
+        "id": "ai-models-gpt-5-gpt-5-production",
+        "title": "GPT-5 in Production",
+        "durationSeconds": 201,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_5_gpt_5_production.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-5/gpt-5-production.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "GPT-5 in Production"
+      }
+    ]
+  },
+  {
+    "id": "ai-models-gpt-4o",
+    "title": "GPT-4o",
+    "description": "GPT-4o Overview",
+    "category": "AI Models",
+    "lessons": [
+      {
+        "id": "ai-models-gpt-4o-gpt-4o-overview",
+        "title": "GPT-4o Overview",
+        "durationSeconds": 219,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_4o_gpt_4o_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-4o/gpt-4o-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "GPT-4o Overview"
+      },
+      {
+        "id": "ai-models-gpt-4o-gpt-4o-vision",
+        "title": "GPT-4o Vision",
+        "durationSeconds": 230,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_4o_gpt_4o_vision.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-4o/gpt-4o-vision.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "GPT-4o Vision"
+      },
+      {
+        "id": "ai-models-gpt-4o-gpt-4o-audio",
+        "title": "GPT-4o Audio",
+        "durationSeconds": 270,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_4o_gpt_4o_audio.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-4o/gpt-4o-audio.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "GPT-4o Audio (Realtime"
+      },
+      {
+        "id": "ai-models-gpt-4o-gpt-4o-mini",
+        "title": "GPT-4o-mini for Cost",
+        "durationSeconds": 234,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_4o_gpt_4o_mini.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-4o/gpt-4o-mini.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "GPT-4o-mini for Cost"
+      },
+      {
+        "id": "ai-models-gpt-4o-gpt-4o-structured-outputs",
+        "title": "Structured Outputs",
+        "durationSeconds": 180,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_4o_gpt_4o_structured_outputs.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-4o/gpt-4o-structured-outputs.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Structured Outputs"
+      },
+      {
+        "id": "ai-models-gpt-4o-gpt-4o-production",
+        "title": "GPT-4o in Production",
+        "durationSeconds": 273,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_gpt_4o_gpt_4o_production.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/gpt-4o/gpt-4o-production.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "GPT-4o in Production"
+      }
+    ]
+  },
+  {
+    "id": "ai-models-claude-opus-4-7",
+    "title": "Claude Opus 4.7",
+    "description": "Claude Opus 4.7 Overview",
+    "category": "AI Models",
+    "lessons": [
+      {
+        "id": "ai-models-claude-opus-4-7-opus-4-7-overview",
+        "title": "Claude Opus 4.7 Overview",
+        "durationSeconds": 207,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_opus_4_7_opus_4_7_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-opus-4-7/opus-4-7-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Claude Opus 4.7 Overview"
+      },
+      {
+        "id": "ai-models-claude-opus-4-7-opus-4-7-1m-context",
+        "title": "1M Token Context Window",
+        "durationSeconds": 232,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_opus_4_7_opus_4_7_1m_context.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-opus-4-7/opus-4-7-1m-context.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "1M Token Context Window"
+      },
+      {
+        "id": "ai-models-claude-opus-4-7-opus-4-7-coding",
+        "title": "Opus 4.7 for Coding",
+        "durationSeconds": 174,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_opus_4_7_opus_4_7_coding.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-opus-4-7/opus-4-7-coding.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Opus 4.7 for Coding"
+      },
+      {
+        "id": "ai-models-claude-opus-4-7-opus-4-7-agents",
+        "title": "Opus 4.7 for Agents",
+        "durationSeconds": 222,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_opus_4_7_opus_4_7_agents.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-opus-4-7/opus-4-7-agents.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Opus 4.7 for Agents"
+      },
+      {
+        "id": "ai-models-claude-opus-4-7-opus-4-7-vs-sonnet",
+        "title": "Opus vs Sonnet When to Pick",
+        "durationSeconds": 234,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_opus_4_7_opus_4_7_vs_sonnet.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-opus-4-7/opus-4-7-vs-sonnet.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Opus vs Sonnet When to Pick"
+      },
+      {
+        "id": "ai-models-claude-opus-4-7-opus-4-7-production",
+        "title": "Opus 4.7 in Production",
+        "durationSeconds": 275,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_opus_4_7_opus_4_7_production.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-opus-4-7/opus-4-7-production.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Opus 4.7 in Production"
+      }
+    ]
+  },
+  {
+    "id": "ai-models-claude-sonnet-4-6",
+    "title": "Claude Sonnet 4.6",
+    "description": "Sonnet 4.6 Overview",
+    "category": "AI Models",
+    "lessons": [
+      {
+        "id": "ai-models-claude-sonnet-4-6-sonnet-4-6-overview",
+        "title": "Sonnet 4.6 Overview",
+        "durationSeconds": 276,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_sonnet_4_6_sonnet_4_6_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-sonnet-4-6/sonnet-4-6-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Sonnet 4.6 Overview"
+      },
+      {
+        "id": "ai-models-claude-sonnet-4-6-sonnet-4-6-cost-quality",
+        "title": "Cost vs Quality Sweet Spot",
+        "durationSeconds": 234,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_sonnet_4_6_sonnet_4_6_cost_quality.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-sonnet-4-6/sonnet-4-6-cost-quality.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Cost vs Quality Sweet Spot"
+      },
+      {
+        "id": "ai-models-claude-sonnet-4-6-sonnet-4-6-tool-use",
+        "title": "Tool Use with Sonnet",
+        "durationSeconds": 211,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_sonnet_4_6_sonnet_4_6_tool_use.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-sonnet-4-6/sonnet-4-6-tool-use.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Tool Use with Sonnet"
+      },
+      {
+        "id": "ai-models-claude-sonnet-4-6-sonnet-4-6-vision",
+        "title": "Sonnet Vision",
+        "durationSeconds": 232,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_sonnet_4_6_sonnet_4_6_vision.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-sonnet-4-6/sonnet-4-6-vision.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Sonnet Vision"
+      },
+      {
+        "id": "ai-models-claude-sonnet-4-6-sonnet-4-6-vs-others",
+        "title": "Sonnet vs Haiku vs Opus",
+        "durationSeconds": 240,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_sonnet_4_6_sonnet_4_6_vs_others.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-sonnet-4-6/sonnet-4-6-vs-others.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Sonnet vs Haiku vs Opus"
+      },
+      {
+        "id": "ai-models-claude-sonnet-4-6-sonnet-4-6-production",
+        "title": "Sonnet 4.6 in Production",
+        "durationSeconds": 265,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_sonnet_4_6_sonnet_4_6_production.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-sonnet-4-6/sonnet-4-6-production.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Sonnet 4.6 in Production"
+      }
+    ]
+  },
+  {
+    "id": "ai-models-claude-haiku-4-5",
+    "title": "Claude Haiku 4.5",
+    "description": "Haiku 4.5 Overview",
+    "category": "AI Models",
+    "lessons": [
+      {
+        "id": "ai-models-claude-haiku-4-5-haiku-4-5-overview",
+        "title": "Haiku 4.5 Overview",
+        "durationSeconds": 239,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_haiku_4_5_haiku_4_5_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-haiku-4-5/haiku-4-5-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Haiku 4.5 Overview"
+      },
+      {
+        "id": "ai-models-claude-haiku-4-5-haiku-4-5-latency",
+        "title": "Haiku Latency Profile",
+        "durationSeconds": 226,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_haiku_4_5_haiku_4_5_latency.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-haiku-4-5/haiku-4-5-latency.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Haiku Latency Profile"
+      },
+      {
+        "id": "ai-models-claude-haiku-4-5-haiku-4-5-batch",
+        "title": "Haiku in Batch Workflows",
+        "durationSeconds": 230,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_haiku_4_5_haiku_4_5_batch.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-haiku-4-5/haiku-4-5-batch.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Haiku in Batch Workflows"
+      },
+      {
+        "id": "ai-models-claude-haiku-4-5-haiku-4-5-routing",
+        "title": "Routing Cheap Tasks to Haiku",
+        "durationSeconds": 248,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_haiku_4_5_haiku_4_5_routing.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-haiku-4-5/haiku-4-5-routing.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Routing Cheap Tasks to Haiku"
+      },
+      {
+        "id": "ai-models-claude-haiku-4-5-haiku-4-5-vs-mini",
+        "title": "Haiku vs GPT-4o-mini vs Flash",
+        "durationSeconds": 224,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_haiku_4_5_haiku_4_5_vs_mini.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-haiku-4-5/haiku-4-5-vs-mini.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Haiku vs GPT-4o-mini vs Flash"
+      },
+      {
+        "id": "ai-models-claude-haiku-4-5-haiku-4-5-production",
+        "title": "Haiku 4.5 in Production",
+        "durationSeconds": 202,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_models_claude_haiku_4_5_haiku_4_5_production.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-models/claude-haiku-4-5/haiku-4-5-production.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Haiku 4.5 in Production"
       }
     ]
   }
