@@ -340,6 +340,74 @@
     ]
   },
   {
+    "id": "ai-research-ethics-research-ethics-overview",
+    "title": "Research Ethics Overview",
+    "description": "Master research ethics for AI by understanding the chain of evidence from protocol through post-publication conduct, and treat ethics as a working discipline rather than a paperwork exercise.",
+    "category": "AI Research Ethics",
+    "lessons": [
+      {
+        "id": "ai-research-ethics-research-ethics-overview-research-ethics-overview",
+        "title": "Research Ethics Overview",
+        "durationSeconds": 289,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_research_ethics_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/research-ethics-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Master research ethics for AI by understanding the chain of evidence from protocol through post-publication conduct, and treat ethics as a working discipline rather than a paperwork exercise."
+      },
+      {
+        "id": "ai-research-ethics-research-ethics-overview-lineage-from-human-subjects-research",
+        "title": "Lineage from Human-Subjects Research",
+        "durationSeconds": 284,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_lineage_from_human_subjects_research.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/lineage-from-human-subjects-research.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Learn the historical lineage and practical operating model for AI research ethics, grounded in decades of human-subjects research protections and adapted for modern AI-specific challenges."
+      },
+      {
+        "id": "ai-research-ethics-research-ethics-overview-ai-specific-extensions",
+        "title": "AI-Specific Extensions",
+        "durationSeconds": 366,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_ai_specific_extensions.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/ai-specific-extensions.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Research ethics for AI extends from human-subjects protections through a practical chain of evidence and defensibility that runs from protocol design through post-publication conduct."
+      },
+      {
+        "id": "ai-research-ethics-research-ethics-overview-operating-model",
+        "title": "Operating Model",
+        "durationSeconds": 267,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_operating_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/operating-model.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Learn how to operationalize research ethics in AI work through a chain of evidence and authority spanning protocol, consent, data handling, analysis, disclosure, publication, and post-publication conduct."
+      },
+      {
+        "id": "ai-research-ethics-research-ethics-overview-operating-cadence",
+        "title": "Operating Cadence",
+        "durationSeconds": 277,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_operating_cadence.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/operating-cadence.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Master the seven-step operating cadence that turns research-ethics principles into concrete practices that protect participants and defend your work."
+      },
+      {
+        "id": "ai-research-ethics-research-ethics-overview-maturity-model",
+        "title": "Maturity Model",
+        "durationSeconds": 289,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_maturity_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/maturity-model.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Learn the maturity model for AI research ethics: a chain of evidence and authority from protocol through publication that operationalizes ethical practice in research teams."
+      }
+    ]
+  },
+  {
     "id": "anthropic-claude-claude-models-overview",
     "title": "Claude Models Overview",
     "description": "Claude Family Overview",
@@ -1360,70 +1428,70 @@
     ]
   },
   {
-    "id": "ai-research-ethics-research-ethics-overview",
-    "title": "Research Ethics Overview",
-    "description": "Master research ethics for AI by understanding the chain of evidence from protocol through post-publication conduct, and treat ethics as a working discipline rather than a paperwork exercise.",
-    "category": "AI Research Ethics",
+    "id": "ai-red-teaming-red-team-overview",
+    "title": "Red Team Overview",
+    "description": "AI red teaming is a disciplined defensive practice that chains threat models, probes, findings, and fixes together into an auditable and legally defensible program.",
+    "category": "AI Red Teaming",
     "lessons": [
       {
-        "id": "ai-research-ethics-research-ethics-overview-research-ethics-overview",
-        "title": "Research Ethics Overview",
-        "durationSeconds": 289,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_research_ethics_overview.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/research-ethics-overview.html",
+        "id": "ai-red-teaming-red-team-overview-ai-red-teaming-overview",
+        "title": "AI Red Teaming Overview",
+        "durationSeconds": 269,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_ai_red_teaming_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/ai-red-teaming-overview.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Master research ethics for AI by understanding the chain of evidence from protocol through post-publication conduct, and treat ethics as a working discipline rather than a paperwork exercise."
+        "audioSummary": "AI red teaming is a disciplined defensive practice that chains threat models, probes, findings, and fixes together into an auditable and legally defensible program."
       },
       {
-        "id": "ai-research-ethics-research-ethics-overview-lineage-from-human-subjects-research",
-        "title": "Lineage from Human-Subjects Research",
-        "durationSeconds": 284,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_lineage_from_human_subjects_research.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/lineage-from-human-subjects-research.html",
+        "id": "ai-red-teaming-red-team-overview-scope-deliverables",
+        "title": "Scope & Deliverables",
+        "durationSeconds": 278,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_scope_deliverables.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/scope-deliverables.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Learn the historical lineage and practical operating model for AI research ethics, grounded in decades of human-subjects research protections and adapted for modern AI-specific challenges."
+        "audioSummary": "Learn how to structure AI red-teaming engagements with proper scope, authorization, probes, findings, and disclosure to create defensible security programs that actually produce fixes."
       },
       {
-        "id": "ai-research-ethics-research-ethics-overview-ai-specific-extensions",
-        "title": "AI-Specific Extensions",
-        "durationSeconds": 366,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_ai_specific_extensions.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/ai-specific-extensions.html",
+        "id": "ai-red-teaming-red-team-overview-lineage-from-classical-red-teaming",
+        "title": "Lineage from Classical Red Teaming",
+        "durationSeconds": 261,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_lineage_from_classical_red_teaming.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/lineage-from-classical-red-teaming.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Research ethics for AI extends from human-subjects protections through a practical chain of evidence and defensibility that runs from protocol design through post-publication conduct."
+        "audioSummary": "AI red teaming evolved from classical security and intelligence red teaming, and it works as a defensible chain of evidence linking authorization, threat models, probes, findings, severity ratings, and fixes."
       },
       {
-        "id": "ai-research-ethics-research-ethics-overview-operating-model",
+        "id": "ai-red-teaming-red-team-overview-operating-model",
         "title": "Operating Model",
-        "durationSeconds": 267,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_operating_model.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/operating-model.html",
+        "durationSeconds": 228,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_operating_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/operating-model.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Learn how to operationalize research ethics in AI work through a chain of evidence and authority spanning protocol, consent, data handling, analysis, disclosure, publication, and post-publication conduct."
+        "audioSummary": "Master the operating model for AI red teaming: a chain of evidence from authorization and abuse cases through probe design, finding severity, and engineering handoff that turns security assessments into durable fixes."
       },
       {
-        "id": "ai-research-ethics-research-ethics-overview-operating-cadence",
+        "id": "ai-red-teaming-red-team-overview-operating-cadence",
         "title": "Operating Cadence",
-        "durationSeconds": 277,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_operating_cadence.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/operating-cadence.html",
+        "durationSeconds": 236,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_operating_cadence.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/operating-cadence.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Master the seven-step operating cadence that turns research-ethics principles into concrete practices that protect participants and defend your work."
+        "audioSummary": "Learn the operating cadence framework for running defensible AI red-teaming programs that deliver real fixes, not just flashy findings."
       },
       {
-        "id": "ai-research-ethics-research-ethics-overview-maturity-model",
+        "id": "ai-red-teaming-red-team-overview-maturity-model",
         "title": "Maturity Model",
-        "durationSeconds": 289,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_research_ethics_research_ethics_overview_maturity_model.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-research-ethics/research-ethics-overview/maturity-model.html",
+        "durationSeconds": 218,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_maturity_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/maturity-model.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Learn the maturity model for AI research ethics: a chain of evidence and authority from protocol through publication that operationalizes ethical practice in research teams."
+        "audioSummary": "Learn the maturity model for AI red teaming: a disciplined chain of evidence from authorization through probe design, finding severity, engineering fix, and disclosure that turns defensive testing into durable security improvements."
       }
     ]
   }
