@@ -1,0 +1,73 @@
+name: Review digest email
+
+# Sends each account holder the questions their own spaced-repetition schedule
+# says are due today. Unlike the daily lesson broadcast, every one of these
+# emails is different, because it is built from that person's own progress.
+#
+# The endpoint does the work; this workflow only triggers it, because GoDaddy
+# shared hosting has no cron we can drive from the repo.
+#
+# Lives here (toshanthi-stack/ai-school-feed) rather than in the AI-School
+# repo itself because Lilly-Tech-Collab's Actions spending limit was blocking
+# every scheduled run there. This repo is public, so Actions minutes are free
+# regardless. Content is fetched over HTTPS, so it does not need a checkout
+# of the AI-School repo.
+#
+# Requires one secret:
+#   REVIEW_DIGEST_KEY - must match the REVIEW_DIGEST_KEY env var on the server
+#
+# Deliberately conservative: the endpoint refuses to mail anyone with fewer
+# than 5 due cards, never mails the same person twice in 3 days, and stops at
+# 400 sends per run.
+
+on:
+  schedule:
+    # 13:10 UTC = 9:10am US Eastern in summer. An hour after the daily lesson
+    # so the two do not land together and read as one noisy sender.
+    - cron: "10 13 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Count who would be mailed, send nothing"
+        type: boolean
+        default: true
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Trigger the digest
+        env:
+          KEY: ${{ secrets.REVIEW_DIGEST_KEY }}
+        run: |
+          if [ -z "$KEY" ]; then
+            echo "::warning::REVIEW_DIGEST_KEY is not set. Nothing sent."
+            exit 0
+          fi
+
+          # Scheduled runs send; manual runs default to a dry run so the
+          # workflow can be exercised without mailing anybody.
+          DRY=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
+            DRY="?dry=1"
+          fi
+
+          RESP=$(curl -sS --max-time 300 -w "\n%{http_code}" \
+            -X POST \
+            -H "X-Digest-Key: $KEY" \
+            "https://lillytechsystems.com/api/review-digest.php$DRY")
+
+          CODE=$(echo "$RESP" | tail -n1)
+          BODY=$(echo "$RESP" | sed '$d')
+          echo "$BODY"
+
+          if [ "$CODE" != "200" ]; then
+            echo "::error::review-digest.php returned HTTP $CODE"
+            exit 1
+          fi
+
+          echo "### Review digest" >> "$GITHUB_STEP_SUMMARY"
+          echo '```json' >> "$GITHUB_STEP_SUMMARY"
+          echo "$BODY" >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"

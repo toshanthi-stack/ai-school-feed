@@ -1,0 +1,83 @@
+name: Ad audience report
+
+# Mails each house-ad owner what their placements did yesterday: how many
+# people saw them, who clicked, and from which country, state and city.
+# The recipient is the ad's own owner_email field in api/ads.json, edited in
+# /admin/ads.php, so nothing here needs changing when an ad changes hands.
+#
+# The endpoint does the work; this workflow only triggers it, because GoDaddy
+# shared hosting has no cron we can drive from the repo. Same shape as
+# review-digest.yml.
+#
+# Lives here (toshanthi-stack/ai-school-feed) rather than in the AI-School
+# repo itself because Lilly-Tech-Collab's Actions spending limit was blocking
+# every scheduled run there. This repo is public, so Actions minutes are free
+# regardless. Content is fetched over HTTPS, so it does not need a checkout
+# of the AI-School repo.
+#
+# Requires one secret:
+#   AD_REPORT_KEY - matching the AD_REPORT_KEY value in .env on the server
+#
+# The endpoint sends nothing to an owner whose ads had no activity, so a quiet
+# day produces no mail rather than a "0 impressions" note nobody will read.
+
+on:
+  schedule:
+    # 13:40 UTC = 9:40am US Eastern in summer. After the review digest so the
+    # morning's automated mail does not all land in the same minute.
+    - cron: "40 13 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Reporting window in days"
+        required: false
+        default: "1"
+      dry_run:
+        description: "Build the reports and print them, send nothing"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ad-audience-report
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Trigger the report
+        env:
+          KEY: ${{ secrets.AD_REPORT_KEY }}
+          DAYS: ${{ github.event.inputs.days || '1' }}
+          DRY: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: |
+          if [ -z "$KEY" ]; then
+            echo "::warning::AD_REPORT_KEY is not set. Nothing sent."
+            exit 0
+          fi
+
+          URL="https://lillytechsystems.com/api/ad-report.php?days=${DAYS}"
+          if [ -n "$DRY" ]; then URL="${URL}&dry=1"; fi
+
+          # Address resolution is an outbound lookup per new visitor, so give
+          # the request room: a busy day can carry a hundred fresh addresses.
+          CODE=$(curl -sS -o /tmp/report.json -w '%{http_code}' \
+                   --max-time 300 \
+                   -H "X-Ad-Report-Key: ${KEY}" \
+                   -X POST "$URL")
+
+          echo "HTTP $CODE"
+          cat /tmp/report.json
+          echo
+
+          if [ "$CODE" != "200" ]; then
+            echo "::error::Ad audience report failed with HTTP $CODE"
+            exit 1
+          fi
+
+          SENT=$(python3 -c "import json;print(json.load(open('/tmp/report.json')).get('sent',0))")
+          echo "::notice::Ad audience reports sent: $SENT"
