@@ -408,6 +408,74 @@
     ]
   },
   {
+    "id": "ai-red-teaming-red-team-overview",
+    "title": "Red Team Overview",
+    "description": "AI red teaming is a disciplined defensive practice that chains threat models, probes, findings, and fixes together into an auditable and legally defensible program.",
+    "category": "AI Red Teaming",
+    "lessons": [
+      {
+        "id": "ai-red-teaming-red-team-overview-ai-red-teaming-overview",
+        "title": "AI Red Teaming Overview",
+        "durationSeconds": 269,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_ai_red_teaming_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/ai-red-teaming-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "AI red teaming is a disciplined defensive practice that chains threat models, probes, findings, and fixes together into an auditable and legally defensible program."
+      },
+      {
+        "id": "ai-red-teaming-red-team-overview-scope-deliverables",
+        "title": "Scope & Deliverables",
+        "durationSeconds": 278,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_scope_deliverables.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/scope-deliverables.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Learn how to structure AI red-teaming engagements with proper scope, authorization, probes, findings, and disclosure to create defensible security programs that actually produce fixes."
+      },
+      {
+        "id": "ai-red-teaming-red-team-overview-lineage-from-classical-red-teaming",
+        "title": "Lineage from Classical Red Teaming",
+        "durationSeconds": 261,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_lineage_from_classical_red_teaming.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/lineage-from-classical-red-teaming.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "AI red teaming evolved from classical security and intelligence red teaming, and it works as a defensible chain of evidence linking authorization, threat models, probes, findings, severity ratings, and fixes."
+      },
+      {
+        "id": "ai-red-teaming-red-team-overview-operating-model",
+        "title": "Operating Model",
+        "durationSeconds": 228,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_operating_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/operating-model.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Master the operating model for AI red teaming: a chain of evidence from authorization and abuse cases through probe design, finding severity, and engineering handoff that turns security assessments into durable fixes."
+      },
+      {
+        "id": "ai-red-teaming-red-team-overview-operating-cadence",
+        "title": "Operating Cadence",
+        "durationSeconds": 236,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_operating_cadence.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/operating-cadence.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Learn the operating cadence framework for running defensible AI red-teaming programs that deliver real fixes, not just flashy findings."
+      },
+      {
+        "id": "ai-red-teaming-red-team-overview-maturity-model",
+        "title": "Maturity Model",
+        "durationSeconds": 218,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_maturity_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/maturity-model.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Learn the maturity model for AI red teaming: a disciplined chain of evidence from authorization through probe design, finding severity, engineering fix, and disclosure that turns defensive testing into durable security improvements."
+      }
+    ]
+  },
+  {
     "id": "anthropic-claude-claude-models-overview",
     "title": "Claude Models Overview",
     "description": "Claude Family Overview",
@@ -1428,70 +1496,70 @@
     ]
   },
   {
-    "id": "ai-red-teaming-red-team-overview",
-    "title": "Red Team Overview",
-    "description": "AI red teaming is a disciplined defensive practice that chains threat models, probes, findings, and fixes together into an auditable and legally defensible program.",
-    "category": "AI Red Teaming",
+    "id": "data-governance-dg-overview",
+    "title": "Dg Overview",
+    "description": "Data governance as a defensible chain of evidence and authority: policy, ownership, controls, metrics, and integration that connect evidence to business outcomes and survive regulatory scrutiny.",
+    "category": "Data Governance",
     "lessons": [
       {
-        "id": "ai-red-teaming-red-team-overview-ai-red-teaming-overview",
-        "title": "AI Red Teaming Overview",
-        "durationSeconds": 269,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_ai_red_teaming_overview.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/ai-red-teaming-overview.html",
+        "id": "data-governance-dg-overview-data-governance-overview",
+        "title": "Data Governance Overview",
+        "durationSeconds": 318,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_data_governance_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/data-governance-overview.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "AI red teaming is a disciplined defensive practice that chains threat models, probes, findings, and fixes together into an auditable and legally defensible program."
+        "audioSummary": "Data governance as a defensible chain of evidence and authority: policy, ownership, controls, metrics, and integration that connect evidence to business outcomes and survive regulatory scrutiny."
       },
       {
-        "id": "ai-red-teaming-red-team-overview-scope-deliverables",
+        "id": "data-governance-dg-overview-scope-amp-deliverables",
         "title": "Scope & Deliverables",
-        "durationSeconds": 278,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_scope_deliverables.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/scope-deliverables.html",
+        "durationSeconds": 341,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_scope_amp_deliverables.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/scope-amp-deliverables.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Learn how to structure AI red-teaming engagements with proper scope, authorization, probes, findings, and disclosure to create defensible security programs that actually produce fixes."
+        "audioSummary": "Scope and Deliverables teaches you how to design and operate effective data governance by anchoring work in policy and ownership, engineering controls into platforms, and connecting governance investments to measurable business outcomes."
       },
       {
-        "id": "ai-red-teaming-red-team-overview-lineage-from-classical-red-teaming",
-        "title": "Lineage from Classical Red Teaming",
-        "durationSeconds": 261,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_lineage_from_classical_red_teaming.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/lineage-from-classical-red-teaming.html",
+        "id": "data-governance-dg-overview-lineage-from-edm-amp-records-management",
+        "title": "Lineage from EDM & Records Management",
+        "durationSeconds": 308,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_lineage_from_edm_amp_records_management.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/lineage-from-edm-amp-records-management.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "AI red teaming evolved from classical security and intelligence red teaming, and it works as a defensible chain of evidence linking authorization, threat models, probes, findings, severity ratings, and fixes."
+        "audioSummary": "Data governance builds a defensible chain of evidence from policy through operations to audit trails, connecting controls to business outcomes and regulator-facing proof."
       },
       {
-        "id": "ai-red-teaming-red-team-overview-operating-model",
+        "id": "data-governance-dg-overview-operating-model",
         "title": "Operating Model",
-        "durationSeconds": 228,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_operating_model.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/operating-model.html",
+        "durationSeconds": 241,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_operating_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/operating-model.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Master the operating model for AI red teaming: a chain of evidence from authorization and abuse cases through probe design, finding severity, and engineering handoff that turns security assessments into durable fixes."
+        "audioSummary": "A data governance operating model is the practical framework that turns policies and ownership into defensible, platform-integrated controls that survive audits and drive business outcomes."
       },
       {
-        "id": "ai-red-teaming-red-team-overview-operating-cadence",
+        "id": "data-governance-dg-overview-operating-cadence",
         "title": "Operating Cadence",
-        "durationSeconds": 236,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_operating_cadence.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/operating-cadence.html",
+        "durationSeconds": 227,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_operating_cadence.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/operating-cadence.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Learn the operating cadence framework for running defensible AI red-teaming programs that deliver real fixes, not just flashy findings."
+        "audioSummary": "Learn how to build a data governance operating cadence that embeds policy, platform controls, and outcome-linked metrics into your organization's engineering and analytics workflows to avoid governance theater and survive regulatory scrutiny."
       },
       {
-        "id": "ai-red-teaming-red-team-overview-maturity-model",
+        "id": "data-governance-dg-overview-maturity-model",
         "title": "Maturity Model",
-        "durationSeconds": 218,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_red_teaming_red_team_overview_maturity_model.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-red-teaming/red-team-overview/maturity-model.html",
+        "durationSeconds": 186,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_maturity_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/maturity-model.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Learn the maturity model for AI red teaming: a disciplined chain of evidence from authorization through probe design, finding severity, engineering fix, and disclosure that turns defensive testing into durable security improvements."
+        "audioSummary": "Data governance maturity is built on a chain of policy, ownership, platform controls, and metrics that must close incidents and defend decisions to regulators and stakeholders."
       }
     ]
   }
