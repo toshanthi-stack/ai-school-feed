@@ -476,6 +476,74 @@
     ]
   },
   {
+    "id": "data-governance-dg-overview",
+    "title": "Dg Overview",
+    "description": "Data governance as a defensible chain of evidence and authority: policy, ownership, controls, metrics, and integration that connect evidence to business outcomes and survive regulatory scrutiny.",
+    "category": "Data Governance",
+    "lessons": [
+      {
+        "id": "data-governance-dg-overview-data-governance-overview",
+        "title": "Data Governance Overview",
+        "durationSeconds": 318,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_data_governance_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/data-governance-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Data governance as a defensible chain of evidence and authority: policy, ownership, controls, metrics, and integration that connect evidence to business outcomes and survive regulatory scrutiny."
+      },
+      {
+        "id": "data-governance-dg-overview-scope-amp-deliverables",
+        "title": "Scope & Deliverables",
+        "durationSeconds": 341,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_scope_amp_deliverables.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/scope-amp-deliverables.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Scope and Deliverables teaches you how to design and operate effective data governance by anchoring work in policy and ownership, engineering controls into platforms, and connecting governance investments to measurable business outcomes."
+      },
+      {
+        "id": "data-governance-dg-overview-lineage-from-edm-amp-records-management",
+        "title": "Lineage from EDM & Records Management",
+        "durationSeconds": 308,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_lineage_from_edm_amp_records_management.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/lineage-from-edm-amp-records-management.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Data governance builds a defensible chain of evidence from policy through operations to audit trails, connecting controls to business outcomes and regulator-facing proof."
+      },
+      {
+        "id": "data-governance-dg-overview-operating-model",
+        "title": "Operating Model",
+        "durationSeconds": 241,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_operating_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/operating-model.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "A data governance operating model is the practical framework that turns policies and ownership into defensible, platform-integrated controls that survive audits and drive business outcomes."
+      },
+      {
+        "id": "data-governance-dg-overview-operating-cadence",
+        "title": "Operating Cadence",
+        "durationSeconds": 227,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_operating_cadence.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/operating-cadence.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Learn how to build a data governance operating cadence that embeds policy, platform controls, and outcome-linked metrics into your organization's engineering and analytics workflows to avoid governance theater and survive regulatory scrutiny."
+      },
+      {
+        "id": "data-governance-dg-overview-maturity-model",
+        "title": "Maturity Model",
+        "durationSeconds": 186,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_maturity_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/maturity-model.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Data governance maturity is built on a chain of policy, ownership, platform controls, and metrics that must close incidents and defend decisions to regulators and stakeholders."
+      }
+    ]
+  },
+  {
     "id": "anthropic-claude-claude-models-overview",
     "title": "Claude Models Overview",
     "description": "Claude Family Overview",
@@ -1496,70 +1564,70 @@
     ]
   },
   {
-    "id": "data-governance-dg-overview",
-    "title": "Dg Overview",
-    "description": "Data governance as a defensible chain of evidence and authority: policy, ownership, controls, metrics, and integration that connect evidence to business outcomes and survive regulatory scrutiny.",
-    "category": "Data Governance",
+    "id": "ai-disclosure-provenance-disclosure-overview",
+    "title": "Disclosure Overview",
+    "description": "Master AI disclosure and provenance as a discipline\u2014understanding what information different audiences need, how to deliver it across multiple layers, and why treating disclosure as a verifiable chain of evidence protects your organization against regulatory failure.",
+    "category": "AI Disclosure Provenance",
     "lessons": [
       {
-        "id": "data-governance-dg-overview-data-governance-overview",
-        "title": "Data Governance Overview",
-        "durationSeconds": 318,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_data_governance_overview.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/data-governance-overview.html",
+        "id": "ai-disclosure-provenance-disclosure-overview-disclosure-provenance-overview",
+        "title": "Disclosure & Provenance Overview",
+        "durationSeconds": 298,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_disclosure_provenance_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/disclosure-provenance-overview.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Data governance as a defensible chain of evidence and authority: policy, ownership, controls, metrics, and integration that connect evidence to business outcomes and survive regulatory scrutiny."
+        "audioSummary": "Master AI disclosure and provenance as a discipline\u2014understanding what information different audiences need, how to deliver it across multiple layers, and why treating disclosure as a verifiable chain of evidence protects your organization against regulatory failure."
       },
       {
-        "id": "data-governance-dg-overview-scope-amp-deliverables",
+        "id": "ai-disclosure-provenance-disclosure-overview-scope-deliverables",
         "title": "Scope & Deliverables",
-        "durationSeconds": 341,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_scope_amp_deliverables.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/scope-amp-deliverables.html",
+        "durationSeconds": 385,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_scope_deliverables.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/scope-deliverables.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Scope and Deliverables teaches you how to design and operate effective data governance by anchoring work in policy and ownership, engineering controls into platforms, and connecting governance investments to measurable business outcomes."
+        "audioSummary": "AI disclosure and provenance is a chain of evidence spanning source lineage, training data, model outputs, watermarks, labels, cards, and reports\u2014all anchored to specific audiences and integrated into the engineering lifecycle."
       },
       {
-        "id": "data-governance-dg-overview-lineage-from-edm-amp-records-management",
-        "title": "Lineage from EDM & Records Management",
-        "durationSeconds": 308,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_lineage_from_edm_amp_records_management.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/lineage-from-edm-amp-records-management.html",
+        "id": "ai-disclosure-provenance-disclosure-overview-lineage-from-broadcast-publishing",
+        "title": "Lineage from Broadcast / Publishing",
+        "durationSeconds": 306,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_lineage_from_broadcast_publishing.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/lineage-from-broadcast-publishing.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Data governance builds a defensible chain of evidence from policy through operations to audit trails, connecting controls to business outcomes and regulator-facing proof."
+        "audioSummary": "AI disclosure and provenance require anchoring each disclosure in a specific audience, choosing the right layer of disclosure, engineering verifiability across a chain of evidence, and integrating disclosure into the product lifecycle rather than treating it as an afterthought."
       },
       {
-        "id": "data-governance-dg-overview-operating-model",
+        "id": "ai-disclosure-provenance-disclosure-overview-operating-model",
         "title": "Operating Model",
-        "durationSeconds": 241,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_operating_model.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/operating-model.html",
+        "durationSeconds": 320,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_operating_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/operating-model.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "A data governance operating model is the practical framework that turns policies and ownership into defensible, platform-integrated controls that survive audits and drive business outcomes."
+        "audioSummary": "Master AI disclosure and provenance as a discipline by treating it as a chain of evidence, using layered disclosure mechanisms anchored to specific audiences and regulatory requirements."
       },
       {
-        "id": "data-governance-dg-overview-operating-cadence",
+        "id": "ai-disclosure-provenance-disclosure-overview-operating-cadence",
         "title": "Operating Cadence",
-        "durationSeconds": 227,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_operating_cadence.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/operating-cadence.html",
+        "durationSeconds": 325,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_operating_cadence.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/operating-cadence.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Learn how to build a data governance operating cadence that embeds policy, platform controls, and outcome-linked metrics into your organization's engineering and analytics workflows to avoid governance theater and survive regulatory scrutiny."
+        "audioSummary": "Operating cadence is the systematic, end-to-end discipline of anchoring AI disclosure decisions in audience needs, choosing the right disclosure layer, engineering verifiable evidence chains, and integrating disclosure throughout the engineering and release lifecycle."
       },
       {
-        "id": "data-governance-dg-overview-maturity-model",
+        "id": "ai-disclosure-provenance-disclosure-overview-maturity-model",
         "title": "Maturity Model",
-        "durationSeconds": 186,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/data_governance_dg_overview_maturity_model.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/data-governance/dg-overview/maturity-model.html",
+        "durationSeconds": 345,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_maturity_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/maturity-model.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Data governance maturity is built on a chain of policy, ownership, platform controls, and metrics that must close incidents and defend decisions to regulators and stakeholders."
+        "audioSummary": "A practical maturity model for building AI disclosure and provenance as a defensible, auditable operating discipline across your organization."
       }
     ]
   }
