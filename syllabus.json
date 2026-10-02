@@ -544,6 +544,74 @@
     ]
   },
   {
+    "id": "ai-disclosure-provenance-disclosure-overview",
+    "title": "Disclosure Overview",
+    "description": "Master AI disclosure and provenance as a discipline\u2014understanding what information different audiences need, how to deliver it across multiple layers, and why treating disclosure as a verifiable chain of evidence protects your organization against regulatory failure.",
+    "category": "AI Disclosure Provenance",
+    "lessons": [
+      {
+        "id": "ai-disclosure-provenance-disclosure-overview-disclosure-provenance-overview",
+        "title": "Disclosure & Provenance Overview",
+        "durationSeconds": 298,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_disclosure_provenance_overview.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/disclosure-provenance-overview.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Master AI disclosure and provenance as a discipline\u2014understanding what information different audiences need, how to deliver it across multiple layers, and why treating disclosure as a verifiable chain of evidence protects your organization against regulatory failure."
+      },
+      {
+        "id": "ai-disclosure-provenance-disclosure-overview-scope-deliverables",
+        "title": "Scope & Deliverables",
+        "durationSeconds": 385,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_scope_deliverables.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/scope-deliverables.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "AI disclosure and provenance is a chain of evidence spanning source lineage, training data, model outputs, watermarks, labels, cards, and reports\u2014all anchored to specific audiences and integrated into the engineering lifecycle."
+      },
+      {
+        "id": "ai-disclosure-provenance-disclosure-overview-lineage-from-broadcast-publishing",
+        "title": "Lineage from Broadcast / Publishing",
+        "durationSeconds": 306,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_lineage_from_broadcast_publishing.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/lineage-from-broadcast-publishing.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "AI disclosure and provenance require anchoring each disclosure in a specific audience, choosing the right layer of disclosure, engineering verifiability across a chain of evidence, and integrating disclosure into the product lifecycle rather than treating it as an afterthought."
+      },
+      {
+        "id": "ai-disclosure-provenance-disclosure-overview-operating-model",
+        "title": "Operating Model",
+        "durationSeconds": 320,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_operating_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/operating-model.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Master AI disclosure and provenance as a discipline by treating it as a chain of evidence, using layered disclosure mechanisms anchored to specific audiences and regulatory requirements."
+      },
+      {
+        "id": "ai-disclosure-provenance-disclosure-overview-operating-cadence",
+        "title": "Operating Cadence",
+        "durationSeconds": 325,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_operating_cadence.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/operating-cadence.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Operating cadence is the systematic, end-to-end discipline of anchoring AI disclosure decisions in audience needs, choosing the right disclosure layer, engineering verifiable evidence chains, and integrating disclosure throughout the engineering and release lifecycle."
+      },
+      {
+        "id": "ai-disclosure-provenance-disclosure-overview-maturity-model",
+        "title": "Maturity Model",
+        "durationSeconds": 345,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_maturity_model.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/maturity-model.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "A practical maturity model for building AI disclosure and provenance as a defensible, auditable operating discipline across your organization."
+      }
+    ]
+  },
+  {
     "id": "anthropic-claude-claude-models-overview",
     "title": "Claude Models Overview",
     "description": "Claude Family Overview",
@@ -1564,70 +1632,70 @@
     ]
   },
   {
-    "id": "ai-disclosure-provenance-disclosure-overview",
-    "title": "Disclosure Overview",
-    "description": "Master AI disclosure and provenance as a discipline\u2014understanding what information different audiences need, how to deliver it across multiple layers, and why treating disclosure as a verifiable chain of evidence protects your organization against regulatory failure.",
-    "category": "AI Disclosure Provenance",
+    "id": "ai-skills-advanced-prompt-engineering",
+    "title": "Advanced Prompt Engineering",
+    "description": "Learn how to structure production prompts as tunable systems rather than black boxes, using deliberate design choices around system messages, role definition, and hyperparameters to achieve reliable results at scale.",
+    "category": "AI Skills",
     "lessons": [
       {
-        "id": "ai-disclosure-provenance-disclosure-overview-disclosure-provenance-overview",
-        "title": "Disclosure & Provenance Overview",
-        "durationSeconds": 298,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_disclosure_provenance_overview.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/disclosure-provenance-overview.html",
+        "id": "ai-skills-advanced-prompt-engineering-prompt-anatomy",
+        "title": "Start Skill",
+        "durationSeconds": 191,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_skills_advanced_prompt_engineering_prompt_anatomy.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-skills/advanced-prompt-engineering/prompt-anatomy.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Master AI disclosure and provenance as a discipline\u2014understanding what information different audiences need, how to deliver it across multiple layers, and why treating disclosure as a verifiable chain of evidence protects your organization against regulatory failure."
+        "audioSummary": "Learn how to structure production prompts as tunable systems rather than black boxes, using deliberate design choices around system messages, role definition, and hyperparameters to achieve reliable results at scale."
       },
       {
-        "id": "ai-disclosure-provenance-disclosure-overview-scope-deliverables",
-        "title": "Scope & Deliverables",
-        "durationSeconds": 385,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_scope_deliverables.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/scope-deliverables.html",
+        "id": "ai-skills-advanced-prompt-engineering-system-vs-user-messages",
+        "title": "System vs User Messages",
+        "durationSeconds": 225,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_skills_advanced_prompt_engineering_system_vs_user_messages.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-skills/advanced-prompt-engineering/system-vs-user-messages.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "AI disclosure and provenance is a chain of evidence spanning source lineage, training data, model outputs, watermarks, labels, cards, and reports\u2014all anchored to specific audiences and integrated into the engineering lifecycle."
+        "audioSummary": "Learn how to use system and user messages strategically in LLM APIs to separate instructions from inputs, improve consistency, and build production-grade AI systems."
       },
       {
-        "id": "ai-disclosure-provenance-disclosure-overview-lineage-from-broadcast-publishing",
-        "title": "Lineage from Broadcast / Publishing",
-        "durationSeconds": 306,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_lineage_from_broadcast_publishing.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/lineage-from-broadcast-publishing.html",
+        "id": "ai-skills-advanced-prompt-engineering-output-contracts",
+        "title": "Output Contracts and JSON Mode",
+        "durationSeconds": 226,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_skills_advanced_prompt_engineering_output_contracts.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-skills/advanced-prompt-engineering/output-contracts.html",
         "isAutomotiveSafe": true,
-        "contentType": "conceptual",
-        "audioSummary": "AI disclosure and provenance require anchoring each disclosure in a specific audience, choosing the right layer of disclosure, engineering verifiability across a chain of evidence, and integrating disclosure into the product lifecycle rather than treating it as an afterthought."
+        "contentType": "code",
+        "audioSummary": "Learn how to use output contracts and JSON mode to get reliable, structured data from language models in production systems."
       },
       {
-        "id": "ai-disclosure-provenance-disclosure-overview-operating-model",
-        "title": "Operating Model",
-        "durationSeconds": 320,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_operating_model.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/operating-model.html",
+        "id": "ai-skills-advanced-prompt-engineering-prompt-chaining",
+        "title": "Prompt Chaining Patterns",
+        "durationSeconds": 184,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_skills_advanced_prompt_engineering_prompt_chaining.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-skills/advanced-prompt-engineering/prompt-chaining.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Master AI disclosure and provenance as a discipline by treating it as a chain of evidence, using layered disclosure mechanisms anchored to specific audiences and regulatory requirements."
+        "audioSummary": "Prompt chaining patterns is a production-grade technique for getting repeatable, reliable results from language models by treating prompt design as a tunable lever rather than a black box."
       },
       {
-        "id": "ai-disclosure-provenance-disclosure-overview-operating-cadence",
-        "title": "Operating Cadence",
-        "durationSeconds": 325,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_operating_cadence.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/operating-cadence.html",
+        "id": "ai-skills-advanced-prompt-engineering-prompt-debugging",
+        "title": "Debugging Bad Prompts",
+        "durationSeconds": 207,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_skills_advanced_prompt_engineering_prompt_debugging.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-skills/advanced-prompt-engineering/prompt-debugging.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Operating cadence is the systematic, end-to-end discipline of anchoring AI disclosure decisions in audience needs, choosing the right disclosure layer, engineering verifiable evidence chains, and integrating disclosure throughout the engineering and release lifecycle."
+        "audioSummary": "Learn how to systematically debug and improve your AI prompts by treating them as tunable levers rather than black boxes, with practical patterns used by production teams."
       },
       {
-        "id": "ai-disclosure-provenance-disclosure-overview-maturity-model",
-        "title": "Maturity Model",
-        "durationSeconds": 345,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_disclosure_provenance_disclosure_overview_maturity_model.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-disclosure-provenance/disclosure-overview/maturity-model.html",
+        "id": "ai-skills-advanced-prompt-engineering-prompt-versioning",
+        "title": "Versioning and Testing Prompts",
+        "durationSeconds": 199,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_skills_advanced_prompt_engineering_prompt_versioning.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-skills/advanced-prompt-engineering/prompt-versioning.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "A practical maturity model for building AI disclosure and provenance as a defensible, auditable operating discipline across your organization."
+        "audioSummary": "Learn how to version and test prompts systematically to reliably improve AI system outputs in production."
       }
     ]
   }
