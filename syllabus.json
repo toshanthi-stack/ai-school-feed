@@ -1698,5 +1698,73 @@
         "audioSummary": "Learn how to version and test prompts systematically to reliably improve AI system outputs in production."
       }
     ]
+  },
+  {
+    "id": "ai-agents-langgraph-agents",
+    "title": "Langgraph Agents",
+    "description": "LangGraph fundamentals teaches you how to build stateful, graph-based agent workflows by understanding nodes, edges, routing, and the production patterns that separate reliable agents from demos.",
+    "category": "AI Agents",
+    "lessons": [
+      {
+        "id": "ai-agents-langgraph-agents-langgraph-fundamentals",
+        "title": "LangGraph Fundamentals",
+        "durationSeconds": 236,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_agents_langgraph_agents_langgraph_fundamentals.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-agents/langgraph-agents/langgraph-fundamentals.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "LangGraph fundamentals teaches you how to build stateful, graph-based agent workflows by understanding nodes, edges, routing, and the production patterns that separate reliable agents from demos."
+      },
+      {
+        "id": "ai-agents-langgraph-agents-nodes-edges-state",
+        "title": "Nodes, Edges, and State",
+        "durationSeconds": 265,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_agents_langgraph_agents_nodes_edges_state.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-agents/langgraph-agents/nodes-edges-state.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how to structure LangGraph agents using nodes, edges, and state to build reliable, production-grade workflows."
+      },
+      {
+        "id": "ai-agents-langgraph-agents-conditional-routing",
+        "title": "Conditional Routing",
+        "durationSeconds": 166,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_agents_langgraph_agents_conditional_routing.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-agents/langgraph-agents/conditional-routing.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how conditional routing in LangGraph lets agents make intelligent decisions about which path to take next, turning a linear flow into an adaptive decision tree."
+      },
+      {
+        "id": "ai-agents-langgraph-agents-checkpointing-persistence",
+        "title": "Checkpointing and Persistence",
+        "durationSeconds": 235,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_agents_langgraph_agents_checkpointing_persistence.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-agents/langgraph-agents/checkpointing-persistence.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Learn why checkpointing and persistence matter in production agents, how they work mechanically, and the key decisions that separate reliable systems from demos."
+      },
+      {
+        "id": "ai-agents-langgraph-agents-human-in-the-loop",
+        "title": "Human-in-the-Loop with LangGraph",
+        "durationSeconds": 186,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_agents_langgraph_agents_human_in_the_loop.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-agents/langgraph-agents/human-in-the-loop.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how to build human-in-the-loop agent workflows with LangGraph that pause for human decisions, improving reliability and control in production AI systems."
+      },
+      {
+        "id": "ai-agents-langgraph-agents-langgraph-production",
+        "title": "LangGraph in Production",
+        "durationSeconds": 186,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_agents_langgraph_agents_langgraph_production.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-agents/langgraph-agents/langgraph-production.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how to build stateful, reliable agent workflows in production using LangGraph through careful design choices around state management, routing, persistence, and instrumentation."
+      }
+    ]
   }
 ]
