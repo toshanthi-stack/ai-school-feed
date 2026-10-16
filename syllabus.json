@@ -1766,5 +1766,73 @@
         "audioSummary": "Learn how to build stateful, reliable agent workflows in production using LangGraph through careful design choices around state management, routing, persistence, and instrumentation."
       }
     ]
+  },
+  {
+    "id": "ai-vector-databases-pinecone-mastery",
+    "title": "Pinecone Mastery",
+    "description": "Learn the core concepts and production patterns for using Pinecone vector databases effectively, from index design to recall measurement and scaling decisions.",
+    "category": "AI Vector Databases",
+    "lessons": [
+      {
+        "id": "ai-vector-databases-pinecone-mastery-pinecone-fundamentals",
+        "title": "Pinecone Fundamentals",
+        "durationSeconds": 236,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_vector_databases_pinecone_mastery_pinecone_fundamentals.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-vector-databases/pinecone-mastery/pinecone-fundamentals.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Learn the core concepts and production patterns for using Pinecone vector databases effectively, from index design to recall measurement and scaling decisions."
+      },
+      {
+        "id": "ai-vector-databases-pinecone-mastery-indexes-and-namespaces",
+        "title": "Indexes and Namespaces",
+        "durationSeconds": 226,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_vector_databases_pinecone_mastery_indexes_and_namespaces.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-vector-databases/pinecone-mastery/indexes-and-namespaces.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how to design Pinecone indexes and use namespaces to control recall, latency, and cost in production vector search systems."
+      },
+      {
+        "id": "ai-vector-databases-pinecone-mastery-upserts-and-queries",
+        "title": "Upserts and Queries",
+        "durationSeconds": 217,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_vector_databases_pinecone_mastery_upserts_and_queries.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-vector-databases/pinecone-mastery/upserts-and-queries.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how to use upserts and queries in Pinecone vector databases to insert and retrieve data efficiently at scale."
+      },
+      {
+        "id": "ai-vector-databases-pinecone-mastery-metadata-filtering-pinecone",
+        "title": "Metadata Filtering",
+        "durationSeconds": 238,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_vector_databases_pinecone_mastery_metadata_filtering_pinecone.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-vector-databases/pinecone-mastery/metadata-filtering-pinecone.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how to use metadata filtering in Pinecone to make vector searches faster, cheaper, and more accurate by applying constraints that narrow results before retrieval."
+      },
+      {
+        "id": "ai-vector-databases-pinecone-mastery-pinecone-hybrid-search",
+        "title": "Hybrid Search with Pinecone",
+        "durationSeconds": 246,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_vector_databases_pinecone_mastery_pinecone_hybrid_search.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-vector-databases/pinecone-mastery/pinecone-hybrid-search.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Hybrid search in Pinecone combines vector similarity with metadata filtering to balance recall, latency, and cost in production systems."
+      },
+      {
+        "id": "ai-vector-databases-pinecone-mastery-pinecone-production",
+        "title": "Pinecone in Production",
+        "durationSeconds": 215,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_vector_databases_pinecone_mastery_pinecone_production.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-vector-databases/pinecone-mastery/pinecone-production.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how to deploy Pinecone vector databases in production by mastering index configuration, metrics selection, and performance monitoring."
+      }
+    ]
   }
 ]
