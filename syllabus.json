@@ -1834,5 +1834,73 @@
         "audioSummary": "Learn how to deploy Pinecone vector databases in production by mastering index configuration, metrics selection, and performance monitoring."
       }
     ]
+  },
+  {
+    "id": "ai-hardware-nvidia-h100",
+    "title": "Nvidia H100",
+    "description": "Master NVIDIA H100 architecture by understanding memory bandwidth, precision choices, interconnect topology, and profiling-driven optimization patterns that compound at scale.",
+    "category": "AI Hardware",
+    "lessons": [
+      {
+        "id": "ai-hardware-nvidia-h100-h100-architecture",
+        "title": "H100 Architecture",
+        "durationSeconds": 220,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_hardware_nvidia_h100_h100_architecture.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-hardware/nvidia-h100/h100-architecture.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Master NVIDIA H100 architecture by understanding memory bandwidth, precision choices, interconnect topology, and profiling-driven optimization patterns that compound at scale."
+      },
+      {
+        "id": "ai-hardware-nvidia-h100-transformer-engine",
+        "title": "Transformer Engine and FP8",
+        "durationSeconds": 226,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_hardware_nvidia_h100_transformer_engine.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-hardware/nvidia-h100/transformer-engine.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Learn how Transformer Engine and FP8 precision on NVIDIA H100 GPUs deliver massive throughput gains by computing efficiently at lower numerical precision while maintaining model accuracy."
+      },
+      {
+        "id": "ai-hardware-nvidia-h100-h100-nvlink",
+        "title": "NVLink and NVSwitch on H100",
+        "durationSeconds": 201,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_hardware_nvidia_h100_h100_nvlink.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-hardware/nvidia-h100/h100-nvlink.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "NVLink and NVSwitch are interconnect technologies that let H100 GPUs communicate at extremely high bandwidth, and understanding when and how to use them properly can unlock 2-5x throughput differences in production AI clusters."
+      },
+      {
+        "id": "ai-hardware-nvidia-h100-h100-mig",
+        "title": "MIG",
+        "durationSeconds": 248,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_hardware_nvidia_h100_h100_mig.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-hardware/nvidia-h100/h100-mig.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "MIG is a deliberate engineering decision for maximizing GPU cluster utilization and cost efficiency on NVIDIA H100s, not a default optimization."
+      },
+      {
+        "id": "ai-hardware-nvidia-h100-h100-vs-a100",
+        "title": "H100 vs A100 Tradeoffs",
+        "durationSeconds": 223,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_hardware_nvidia_h100_h100_vs_a100.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-hardware/nvidia-h100/h100-vs-a100.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Understanding when and how to choose between NVIDIA H100 and A100 GPUs based on workload requirements, precision support, and cost-efficiency at scale."
+      },
+      {
+        "id": "ai-hardware-nvidia-h100-h100-tuning",
+        "title": "Tuning H100 for LLM Workloads",
+        "durationSeconds": 237,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_hardware_nvidia_h100_h100_tuning.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-hardware/nvidia-h100/h100-tuning.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how to systematically tune NVIDIA H100 GPUs for large language model workloads to achieve 2-5x throughput improvements through precision selection, profiling, and careful configuration."
+      }
+    ]
   }
 ]
