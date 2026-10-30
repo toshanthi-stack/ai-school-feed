@@ -1902,5 +1902,73 @@
         "audioSummary": "Learn how to systematically tune NVIDIA H100 GPUs for large language model workloads to achieve 2-5x throughput improvements through precision selection, profiling, and careful configuration."
       }
     ]
+  },
+  {
+    "id": "ai-frameworks-pytorch-mastery",
+    "title": "Pytorch Mastery",
+    "description": "Learn the core PyTorch workflow: tensors, models, optimizers, and the mental model of working with the framework's design rather than against it.",
+    "category": "AI Frameworks",
+    "lessons": [
+      {
+        "id": "ai-frameworks-pytorch-mastery-pytorch-fundamentals",
+        "title": "PyTorch Fundamentals",
+        "durationSeconds": 210,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frameworks_pytorch_mastery_pytorch_fundamentals.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frameworks/pytorch-mastery/pytorch-fundamentals.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn the core PyTorch workflow: tensors, models, optimizers, and the mental model of working with the framework's design rather than against it."
+      },
+      {
+        "id": "ai-frameworks-pytorch-mastery-autograd-deep-dive",
+        "title": "Autograd Deep Dive",
+        "durationSeconds": 195,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frameworks_pytorch_mastery_autograd_deep_dive.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frameworks/pytorch-mastery/autograd-deep-dive.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Autograd is PyTorch's automatic differentiation engine that computes gradients for neural network training\u2014understand its mechanics to write efficient, production-ready deep learning code."
+      },
+      {
+        "id": "ai-frameworks-pytorch-mastery-nn-module-patterns",
+        "title": "nn.Module Patterns",
+        "durationSeconds": 253,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frameworks_pytorch_mastery_nn_module_patterns.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frameworks/pytorch-mastery/nn-module-patterns.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how to structure neural networks using PyTorch's nn.Module patterns, the foundation for writing clean, reusable, and production-ready deep learning code."
+      },
+      {
+        "id": "ai-frameworks-pytorch-mastery-dataloader-pipelines",
+        "title": "DataLoader Pipelines",
+        "durationSeconds": 222,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frameworks_pytorch_mastery_dataloader_pipelines.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frameworks/pytorch-mastery/dataloader-pipelines.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how to design and implement efficient DataLoader pipelines in PyTorch, treating them as deliberate architectural choices that work with the framework rather than against it."
+      },
+      {
+        "id": "ai-frameworks-pytorch-mastery-torch-compile",
+        "title": "torch.compile and Inductor",
+        "durationSeconds": 249,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frameworks_pytorch_mastery_torch_compile.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frameworks/pytorch-mastery/torch-compile.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Learn how torch.compile and Inductor speed up PyTorch models by automatically optimizing computation graphs, and when to use them as a deliberate design choice in production systems."
+      },
+      {
+        "id": "ai-frameworks-pytorch-mastery-pytorch-production",
+        "title": "PyTorch in Production",
+        "durationSeconds": 193,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frameworks_pytorch_mastery_pytorch_production.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frameworks/pytorch-mastery/pytorch-production.html",
+        "isAutomotiveSafe": true,
+        "contentType": "code",
+        "audioSummary": "Learn how to deploy PyTorch models in production by understanding the framework's idioms, setting up environments correctly, and following best practices like profiling and version pinning."
+      }
+    ]
   }
 ]
