@@ -36986,6 +36986,46 @@
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
         "audioSummary": "Learn how to design and deploy multimodal tools that give AI agents the ability to see and reason over images in production systems."
+      },
+      {
+        "id": "ai-agents-agent-vision-document-vision",
+        "title": "Document Understanding",
+        "durationSeconds": 218,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_agents_agent_vision_document_vision.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-agents/agent-vision/document-vision.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Document Understanding"
+      },
+      {
+        "id": "ai-agents-agent-vision-ui-vision",
+        "title": "UI Element Recognition",
+        "durationSeconds": 244,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_agents_agent_vision_ui_vision.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-agents/agent-vision/ui-vision.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "UI Element Recognition"
+      },
+      {
+        "id": "ai-agents-agent-vision-video-agents",
+        "title": "Video-Aware Agents",
+        "durationSeconds": 192,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_agents_agent_vision_video_agents.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-agents/agent-vision/video-agents.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Video-Aware Agents"
+      },
+      {
+        "id": "ai-agents-agent-vision-vision-grounding",
+        "title": "Visual Grounding Techniques",
+        "durationSeconds": 220,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_agents_agent_vision_vision_grounding.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-agents/agent-vision/vision-grounding.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Visual Grounding Techniques"
       }
     ]
   },
@@ -38092,6 +38132,16 @@
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
         "audioSummary": "Learn how to safely version, deploy, and roll back AI agents in production using semantic versioning, canary releases, and careful instrumentation."
+      },
+      {
+        "id": "ai-agents-agent-versioning-prompt-versioning",
+        "title": "Prompt Versioning",
+        "durationSeconds": 188,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_agents_agent_versioning_prompt_versioning.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-agents/agent-versioning/prompt-versioning.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Prompt Versioning"
       },
       {
         "id": "ai-agents-agent-versioning-model-prompt-tool-version",
@@ -42368,6 +42418,16 @@
         "audioSummary": "Master TPU v5p architecture by understanding how to optimize hardware utilization through precision tuning, profiling, and parallelization patterns in JAX."
       },
       {
+        "id": "ai-hardware-google-tpu-trillium-tpu-v6",
+        "title": "Trillium",
+        "durationSeconds": 268,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_hardware_google_tpu_trillium_tpu_v6.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-hardware/google-tpu/trillium-tpu-v6.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Trillium (TPU v6"
+      },
+      {
         "id": "ai-hardware-google-tpu-tpu-mxu",
         "title": "MXU and Sparsecore",
         "durationSeconds": 228,
@@ -44212,6 +44272,16 @@
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
         "audioSummary": "The GB200 NVL72 Rack is NVIDIA's high-bandwidth GPU interconnect architecture that can unlock 2-5x throughput gains when properly optimized, but requires careful profiling and deliberate engineering decisions rather than following defaults."
+      },
+      {
+        "id": "ai-hardware-nvlink-nvswitch-nvlink-topology",
+        "title": "NVLink Topology",
+        "durationSeconds": 256,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_hardware_nvlink_nvswitch_nvlink_topology.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-hardware/nvlink-nvswitch/nvlink-topology.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "NVLink Topology"
       },
       {
         "id": "ai-hardware-nvlink-nvswitch-nvlink-tuning",
@@ -50800,6 +50870,16 @@
         "audioSummary": "Learn how inpainting and outpainting work in the Stability AI API and when to use them as deliberate engineering choices in production systems."
       },
       {
+        "id": "ai-apis-stability-ai-api-upscaling",
+        "title": "Upscaling APIs",
+        "durationSeconds": 165,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_apis_stability_ai_api_upscaling.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-apis/stability-ai-api/upscaling.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Upscaling APIs"
+      },
+      {
         "id": "ai-apis-stability-ai-api-stability-production",
         "title": "Stability AI in Production",
         "durationSeconds": 231,
@@ -53382,6 +53462,64 @@
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
         "audioSummary": "Dealer and service AI succeeds in automotive by treating it as a workflow improvement with AI inside, not an AI feature looking for a home\u2014starting from the user's actual job and working backward to the model."
+      }
+    ]
+  },
+  {
+    "id": "ai-frontier-mechanistic-interpretability",
+    "title": "Mechanistic Interpretability",
+    "description": "What Mechanistic Interpretability Actually Is\nReverse-engineering the learned algorithm, and why that is a different goal from explaining a prediction",
+    "category": "AI Frontier",
+    "lessons": [
+      {
+        "id": "ai-frontier-mechanistic-interpretability-what-is-mech-interp",
+        "title": "What Mechanistic Interpretability Actually Is Reverse-engineering the learned algorithm, and why that is a different goal from explaining a prediction",
+        "durationSeconds": 191,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_what_is_mech_interp.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/what-is-mech-interp.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "What Mechanistic Interpretability Actually Is\nReverse-engineering the learned algorithm, and why that is a different goal from explaining a prediction"
+      },
+      {
+        "id": "ai-frontier-mechanistic-interpretability-residual-stream",
+        "title": "The Residual Stream as a Communication Channel The single mental model that makes transformer internals readable: every component reads from and writes to one shared bus",
+        "durationSeconds": 194,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_residual_stream.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/residual-stream.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "The Residual Stream as a Communication Channel\nThe single mental model that makes transformer internals readable: every component reads from and writes to one shared bus"
+      },
+      {
+        "id": "ai-frontier-mechanistic-interpretability-induction-heads",
+        "title": "Attention Heads, Circuits and Induction The induction circuit, worked end to end: two heads, one composition, and most of in-context learning",
+        "durationSeconds": 206,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_induction_heads.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/induction-heads.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Attention Heads, Circuits and Induction\nThe induction circuit, worked end to end: two heads, one composition, and most of in-context learning"
+      },
+      {
+        "id": "ai-frontier-mechanistic-interpretability-activation-patching",
+        "title": "Activation Patching and Causal Tracing The workhorse experiment: swap one activation between two runs and watch the answer change",
+        "durationSeconds": 190,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_activation_patching.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/activation-patching.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Activation Patching and Causal Tracing\nThe workhorse experiment: swap one activation between two runs and watch the answer change"
+      },
+      {
+        "id": "ai-frontier-mechanistic-interpretability-interp-in-production",
+        "title": "Using Interpretability in Production Four uses that pay for themselves, and an honest account of what interpretability cannot do for you yet",
+        "durationSeconds": 220,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_interp_in_production.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/interp-in-production.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Using Interpretability in Production\nFour uses that pay for themselves, and an honest account of what interpretability cannot do for you yet"
       }
     ]
   }
