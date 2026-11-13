@@ -1,5 +1,63 @@
 [
   {
+    "id": "ai-frontier-mechanistic-interpretability",
+    "title": "Mechanistic Interpretability",
+    "description": "What Mechanistic Interpretability Actually Is\nReverse-engineering the learned algorithm, and why that is a different goal from explaining a prediction",
+    "category": "AI Frontier",
+    "lessons": [
+      {
+        "id": "ai-frontier-mechanistic-interpretability-what-is-mech-interp",
+        "title": "What Mechanistic Interpretability Actually Is Reverse-engineering the learned algorithm, and why that is a different goal from explaining a prediction",
+        "durationSeconds": 191,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_what_is_mech_interp.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/what-is-mech-interp.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "What Mechanistic Interpretability Actually Is\nReverse-engineering the learned algorithm, and why that is a different goal from explaining a prediction"
+      },
+      {
+        "id": "ai-frontier-mechanistic-interpretability-residual-stream",
+        "title": "The Residual Stream as a Communication Channel The single mental model that makes transformer internals readable: every component reads from and writes to one shared bus",
+        "durationSeconds": 194,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_residual_stream.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/residual-stream.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "The Residual Stream as a Communication Channel\nThe single mental model that makes transformer internals readable: every component reads from and writes to one shared bus"
+      },
+      {
+        "id": "ai-frontier-mechanistic-interpretability-induction-heads",
+        "title": "Attention Heads, Circuits and Induction The induction circuit, worked end to end: two heads, one composition, and most of in-context learning",
+        "durationSeconds": 206,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_induction_heads.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/induction-heads.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Attention Heads, Circuits and Induction\nThe induction circuit, worked end to end: two heads, one composition, and most of in-context learning"
+      },
+      {
+        "id": "ai-frontier-mechanistic-interpretability-activation-patching",
+        "title": "Activation Patching and Causal Tracing The workhorse experiment: swap one activation between two runs and watch the answer change",
+        "durationSeconds": 190,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_activation_patching.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/activation-patching.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Activation Patching and Causal Tracing\nThe workhorse experiment: swap one activation between two runs and watch the answer change"
+      },
+      {
+        "id": "ai-frontier-mechanistic-interpretability-interp-in-production",
+        "title": "Using Interpretability in Production Four uses that pay for themselves, and an honest account of what interpretability cannot do for you yet",
+        "durationSeconds": 220,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_interp_in_production.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/interp-in-production.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Using Interpretability in Production\nFour uses that pay for themselves, and an honest account of what interpretability cannot do for you yet"
+      }
+    ]
+  },
+  {
     "id": "ai-public-sector-public-sector-ai-overview",
     "title": "Public Sector AI Overview",
     "description": "Public-Sector AI Overview",
@@ -53466,60 +53524,70 @@
     ]
   },
   {
-    "id": "ai-frontier-mechanistic-interpretability",
-    "title": "Mechanistic Interpretability",
-    "description": "What Mechanistic Interpretability Actually Is\nReverse-engineering the learned algorithm, and why that is a different goal from explaining a prediction",
-    "category": "AI Frontier",
+    "id": "ai-robotics-ros2",
+    "title": "Ros2",
+    "description": "ROS 2 Fundamentals",
+    "category": "AI Robotics",
     "lessons": [
       {
-        "id": "ai-frontier-mechanistic-interpretability-what-is-mech-interp",
-        "title": "What Mechanistic Interpretability Actually Is Reverse-engineering the learned algorithm, and why that is a different goal from explaining a prediction",
-        "durationSeconds": 191,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_what_is_mech_interp.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/what-is-mech-interp.html",
+        "id": "ai-robotics-ros2-ros2-fundamentals",
+        "title": "ROS 2 Fundamentals",
+        "durationSeconds": 251,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_fundamentals.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-fundamentals.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "What Mechanistic Interpretability Actually Is\nReverse-engineering the learned algorithm, and why that is a different goal from explaining a prediction"
+        "audioSummary": "ROS 2 Fundamentals"
       },
       {
-        "id": "ai-frontier-mechanistic-interpretability-residual-stream",
-        "title": "The Residual Stream as a Communication Channel The single mental model that makes transformer internals readable: every component reads from and writes to one shared bus",
-        "durationSeconds": 194,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_residual_stream.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/residual-stream.html",
+        "id": "ai-robotics-ros2-ros2-nodes-topics",
+        "title": "Nodes, Topics & Messages",
+        "durationSeconds": 305,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_nodes_topics.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-nodes-topics.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "The Residual Stream as a Communication Channel\nThe single mental model that makes transformer internals readable: every component reads from and writes to one shared bus"
+        "audioSummary": "Nodes, Topics & Messages"
       },
       {
-        "id": "ai-frontier-mechanistic-interpretability-induction-heads",
-        "title": "Attention Heads, Circuits and Induction The induction circuit, worked end to end: two heads, one composition, and most of in-context learning",
-        "durationSeconds": 206,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_induction_heads.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/induction-heads.html",
+        "id": "ai-robotics-ros2-ros2-services-actions",
+        "title": "Services, Actions & Parameters",
+        "durationSeconds": 260,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_services_actions.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-services-actions.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Attention Heads, Circuits and Induction\nThe induction circuit, worked end to end: two heads, one composition, and most of in-context learning"
+        "audioSummary": "Services, Actions & Parameters"
       },
       {
-        "id": "ai-frontier-mechanistic-interpretability-activation-patching",
-        "title": "Activation Patching and Causal Tracing The workhorse experiment: swap one activation between two runs and watch the answer change",
-        "durationSeconds": 190,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_activation_patching.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/activation-patching.html",
+        "id": "ai-robotics-ros2-ros2-qos-dds",
+        "title": "QoS Profiles & DDS Tuning",
+        "durationSeconds": 294,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_qos_dds.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-qos-dds.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Activation Patching and Causal Tracing\nThe workhorse experiment: swap one activation between two runs and watch the answer change"
+        "audioSummary": "QoS Profiles & DDS Tuning"
       },
       {
-        "id": "ai-frontier-mechanistic-interpretability-interp-in-production",
-        "title": "Using Interpretability in Production Four uses that pay for themselves, and an honest account of what interpretability cannot do for you yet",
-        "durationSeconds": 220,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_frontier_mechanistic_interpretability_interp_in_production.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-frontier/mechanistic-interpretability/interp-in-production.html",
+        "id": "ai-robotics-ros2-ros2-launch-composition",
+        "title": "Launch Files & Composition",
+        "durationSeconds": 262,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_launch_composition.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-launch-composition.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "Using Interpretability in Production\nFour uses that pay for themselves, and an honest account of what interpretability cannot do for you yet"
+        "audioSummary": "Launch Files & Composition"
+      },
+      {
+        "id": "ai-robotics-ros2-ros2-production-patterns",
+        "title": "Production ROS 2 Patterns",
+        "durationSeconds": 230,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_production_patterns.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-production-patterns.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Production ROS 2 Patterns"
       }
     ]
   }
