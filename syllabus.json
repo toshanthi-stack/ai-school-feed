@@ -41770,6 +41770,74 @@
     ]
   },
   {
+    "id": "ai-robotics-ros2",
+    "title": "Ros2",
+    "description": "ROS 2 Fundamentals",
+    "category": "AI Robotics",
+    "lessons": [
+      {
+        "id": "ai-robotics-ros2-ros2-fundamentals",
+        "title": "ROS 2 Fundamentals",
+        "durationSeconds": 251,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_fundamentals.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-fundamentals.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "ROS 2 Fundamentals"
+      },
+      {
+        "id": "ai-robotics-ros2-ros2-nodes-topics",
+        "title": "Nodes, Topics & Messages",
+        "durationSeconds": 305,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_nodes_topics.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-nodes-topics.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Nodes, Topics & Messages"
+      },
+      {
+        "id": "ai-robotics-ros2-ros2-services-actions",
+        "title": "Services, Actions & Parameters",
+        "durationSeconds": 260,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_services_actions.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-services-actions.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Services, Actions & Parameters"
+      },
+      {
+        "id": "ai-robotics-ros2-ros2-qos-dds",
+        "title": "QoS Profiles & DDS Tuning",
+        "durationSeconds": 294,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_qos_dds.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-qos-dds.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "QoS Profiles & DDS Tuning"
+      },
+      {
+        "id": "ai-robotics-ros2-ros2-launch-composition",
+        "title": "Launch Files & Composition",
+        "durationSeconds": 262,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_launch_composition.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-launch-composition.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Launch Files & Composition"
+      },
+      {
+        "id": "ai-robotics-ros2-ros2-production-patterns",
+        "title": "Production ROS 2 Patterns",
+        "durationSeconds": 230,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_production_patterns.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-production-patterns.html",
+        "isAutomotiveSafe": true,
+        "contentType": "conceptual",
+        "audioSummary": "Production ROS 2 Patterns"
+      }
+    ]
+  },
+  {
     "id": "ai-hardware-nvidia-h100",
     "title": "Nvidia H100",
     "description": "H100 Architecture",
@@ -53524,70 +53592,70 @@
     ]
   },
   {
-    "id": "ai-robotics-ros2",
-    "title": "Ros2",
-    "description": "ROS 2 Fundamentals",
-    "category": "AI Robotics",
+    "id": "ai-voice-whisper-open-asr",
+    "title": "Whisper Open Asr",
+    "description": "Learn how Whisper and open-source ASR models power real voice agents, why the details matter for latency and user experience, and what production patterns separate magical systems from broken ones.",
+    "category": "AI Voice",
     "lessons": [
       {
-        "id": "ai-robotics-ros2-ros2-fundamentals",
-        "title": "ROS 2 Fundamentals",
-        "durationSeconds": 251,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_fundamentals.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-fundamentals.html",
+        "id": "ai-voice-whisper-open-asr-whisper-asr-fundamentals",
+        "title": "Whisper ASR Fundamentals",
+        "durationSeconds": 276,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_voice_whisper_open_asr_whisper_asr_fundamentals.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-voice/whisper-open-asr/whisper-asr-fundamentals.html",
         "isAutomotiveSafe": true,
         "contentType": "conceptual",
-        "audioSummary": "ROS 2 Fundamentals"
+        "audioSummary": "Learn how Whisper and open-source ASR models power real voice agents, why the details matter for latency and user experience, and what production patterns separate magical systems from broken ones."
       },
       {
-        "id": "ai-robotics-ros2-ros2-nodes-topics",
-        "title": "Nodes, Topics & Messages",
-        "durationSeconds": 305,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_nodes_topics.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-nodes-topics.html",
+        "id": "ai-voice-whisper-open-asr-running-faster-whisper",
+        "title": "Running faster-whisper in Production",
+        "durationSeconds": 258,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_voice_whisper_open_asr_running_faster_whisper.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-voice/whisper-open-asr/running-faster-whisper.html",
         "isAutomotiveSafe": true,
-        "contentType": "conceptual",
-        "audioSummary": "Nodes, Topics & Messages"
+        "contentType": "code",
+        "audioSummary": "Learn how to deploy faster-whisper for speech recognition in production voice systems, optimizing for latency, accuracy, and real-world audio quality."
       },
       {
-        "id": "ai-robotics-ros2-ros2-services-actions",
-        "title": "Services, Actions & Parameters",
-        "durationSeconds": 260,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_services_actions.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-services-actions.html",
+        "id": "ai-voice-whisper-open-asr-distil-whisper-and-turbo",
+        "title": "Distil-Whisper & large-v3-turbo",
+        "durationSeconds": 296,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_voice_whisper_open_asr_distil_whisper_and_turbo.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-voice/whisper-open-asr/distil-whisper-and-turbo.html",
         "isAutomotiveSafe": true,
-        "contentType": "conceptual",
-        "audioSummary": "Services, Actions & Parameters"
+        "contentType": "code",
+        "audioSummary": "Learn how to use Distil-Whisper and large-v3-turbo for fast, efficient speech-to-text in real voice applications, balancing latency, accuracy, and cost."
       },
       {
-        "id": "ai-robotics-ros2-ros2-qos-dds",
-        "title": "QoS Profiles & DDS Tuning",
-        "durationSeconds": 294,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_qos_dds.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-qos-dds.html",
+        "id": "ai-voice-whisper-open-asr-nvidia-parakeet-canary",
+        "title": "NVIDIA Parakeet & Canary",
+        "durationSeconds": 244,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_voice_whisper_open_asr_nvidia_parakeet_canary.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-voice/whisper-open-asr/nvidia-parakeet-canary.html",
         "isAutomotiveSafe": true,
-        "contentType": "conceptual",
-        "audioSummary": "QoS Profiles & DDS Tuning"
+        "contentType": "code",
+        "audioSummary": "Learn how NVIDIA Parakeet and Canary models power real-time speech recognition systems with practical patterns for latency, accuracy, and production reliability."
       },
       {
-        "id": "ai-robotics-ros2-ros2-launch-composition",
-        "title": "Launch Files & Composition",
-        "durationSeconds": 262,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_launch_composition.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-launch-composition.html",
+        "id": "ai-voice-whisper-open-asr-gpu-serving-batching",
+        "title": "GPU Serving & Batched Inference",
+        "durationSeconds": 293,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_voice_whisper_open_asr_gpu_serving_batching.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-voice/whisper-open-asr/gpu-serving-batching.html",
         "isAutomotiveSafe": true,
-        "contentType": "conceptual",
-        "audioSummary": "Launch Files & Composition"
+        "contentType": "code",
+        "audioSummary": "Learn how to serve Whisper speech recognition models efficiently on GPUs using batching and practical production patterns for real voice applications."
       },
       {
-        "id": "ai-robotics-ros2-ros2-production-patterns",
-        "title": "Production ROS 2 Patterns",
-        "durationSeconds": 230,
-        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_robotics_ros2_ros2_production_patterns.m4a",
-        "visualContentUrl": "https://www.lillytechsystems.com/ai-robotics/ros2/ros2-production-patterns.html",
+        "id": "ai-voice-whisper-open-asr-fine-tuning-whisper",
+        "title": "Fine-Tuning Whisper on Domain Audio",
+        "durationSeconds": 310,
+        "audioUrl": "https://toshanthi-stack.github.io/ai-school-feed/audio/ai_voice_whisper_open_asr_fine_tuning_whisper.m4a",
+        "visualContentUrl": "https://www.lillytechsystems.com/ai-voice/whisper-open-asr/fine-tuning-whisper.html",
         "isAutomotiveSafe": true,
-        "contentType": "conceptual",
-        "audioSummary": "Production ROS 2 Patterns"
+        "contentType": "code",
+        "audioSummary": "Fine-tune Whisper speech recognition on your domain's real audio to build voice agents that feel natural, respond fast, and don't mispronounce critical details."
       }
     ]
   }
